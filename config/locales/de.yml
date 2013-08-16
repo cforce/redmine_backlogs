@@ -207,3 +207,4 @@ de:
   todo_issue_summary: "%{type}: {summary}"
   use_free_text_if_empty: "Textfeld falls Dropdown Box is leer"
   warning_reset_sprint: "|- SIE SIND DABEI DEN SPRINT ZURÜCKZUSETZEN! Sind sie sicher? Das Zurücksetzen des Sprint hat folgende Auswirkungen auf die Stories und Tasks: * Erfassungsdatum wird auf das Startdatum des Sprint gesetzt * Alle Anpassungen an Stories und Tasks (ausgenommen der Notizen) werden GELÖSCHT * Alle aktuellen Werte der Stories/Tasks werden auf die  initialen Werte zurückgesetzt * Der Status wird auf den Standardwert zurückgesetzt"
+  task_color: Aufgabenfarbe
